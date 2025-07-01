@@ -1,5 +1,3 @@
----
-
 # 🎬 Netflix Movies and TV Shows Clustering
 
 ### 📌 Project Type: Unsupervised Machine Learning
@@ -70,8 +68,6 @@ There is also potential to integrate this dataset with external sources such as 
 * Add IMDb/Rotten Tomatoes scores for multi-source clustering.
 * Use NLP on descriptions for semantic clustering.
 * Implement advanced clustering algorithms (DBSCAN, Hierarchical).
-
----
 
 ## 📎 GitHub
 
